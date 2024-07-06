@@ -47,3 +47,8 @@ Just a student in a love affair with computer science(If that's really the case)
 * [Linkedin](https://www.linkedin.com/in/mohamed-rahmani-6143b72a1/)
 * [Instagram](https://www.instagram.com/mohamedrahmani__/)
 
+---
+
+### 👁️ View count
+
+![Visitor Count](https://profile-counter.glitch.me/mohamed-rahmani/count.svg)
