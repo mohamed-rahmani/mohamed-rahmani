@@ -1,6 +1,6 @@
 ### &gt; Hello, I'm Mohamed 👋
 
-Just a student in a love affair with computer science(If that's really the case) and is working to improve these skills by developing applications and scripts that address specific issues.
+Just a student working to improve these skills by developing applications and scripts that address specific issues.
 
 ---
 
