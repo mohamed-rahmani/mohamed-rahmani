@@ -1,6 +1,6 @@
 ### &gt; Hello, I'm Mohamed 👋
 
-Just a student working to improve these skills by developing applications and scripts.
+Just a student working to improve his skills by developing applications and scripts.
 
 ---
 
