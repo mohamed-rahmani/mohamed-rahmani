@@ -1,1 +1,1 @@
-### mohamed@github$ echo "Hello, I'm Mohamed 👋"
+### mohamed@github:~$ echo "Hello, I'm Mohamed 👋"
