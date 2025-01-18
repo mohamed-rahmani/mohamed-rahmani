@@ -14,8 +14,9 @@
 
     </style>
 
-    <g>
-        <rect x="10" y="10" rx="5" width="100%" height="80"></rect>
-        <text class="title" x="50%" y="50%" width="" font-weight="bold" fill="green">mohamed@github.com:~$</text>
+    <g class="title">
+        <rect rx="5" width="100%" height="80"></rect>
+        <text x="50%" y="50%" width="" font-weight="bold" fill="green">mohamed@github.com:~$</text>
+        <text x="50%" y="50%" width="" font-weight="bold" fill="white">echo "Hi, I'm Mohamed RAHMANI"</text>
     </g>
 </svg>
