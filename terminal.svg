@@ -23,7 +23,7 @@
                 }
             }
             </style>
-            <h1>HELLO WORLD!</h1>
+            <p class="terminal-text-color">mohamed@github.com:~$</p><p> echo "Hi I'm Mohamed RAHMANI"</p>
         </div>
     </foreignObject>
 </svg>
