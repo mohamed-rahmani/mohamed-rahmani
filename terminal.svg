@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" style="background: #1e1e1e; font-family: 'Menlo', 'Monaco', monospace;">
-  <!-- Barre supérieure -->
-  <rect x="0" y="0" width="600" height="30" fill="#e8e8e8" rx="12" ry="12"></rect>
-  <!-- Boutons de contrôle -->
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" style="border-radius:10px;background: #1e1e1e; font-family: 'Menlo', 'Monaco', monospace;">
+  <path d="M 0 0 h 600 a 10 10 0 0 1 10 10 v 20 h -620 v -20 a 10 10 0 0 1 10 -10 z" fill="#e8e8e8"></path>
   <circle cx="20" cy="15" r="6" fill="#ff5f56"></circle>
   <circle cx="40" cy="15" r="6" fill="#ffbd2e"></circle>
   <circle cx="60" cy="15" r="6" fill="#27c93f"></circle>
-  <!-- Ombre intérieure -->
-  <rect x="0" y="30" width="600" height="370" fill="#1e1e1e" rx="0" ry="0"></rect>
-  <!-- Texte dans le terminal -->
-  <text x="20" y="70" font-size="14" fill="#39ff14">mohamed@github.com:~$ echo "Hi, I'm Mohamed RAHMANI"</text>
-  <text x="20" y="100" font-size="14" fill="#ffffff">Hi, I'm Mohamed RAHMANI</text>
+  <text x="10" y="50" font-size="14" fill="#39ff14">mohamed@github.com:~$ echo "Hi, I'm Mohamed RAHMANI"</text>
+  <text x="10" y="70" font-size="14" fill="#ffffff">Hi, I'm Mohamed RAHMANI</text>
+  <text x="10" y="90" font-size="14" fill="#39ff14">mohamed@github.com:~$ cat skills.txt</text>
+  <text x="10" y="110" font-size="14" fill="#ffffff">Languages : Java, Python, Typescript, SQL</text>
+  <text x="10" y="130" font-size="14" fill="#ffffff">Frameworks : React.js(Next.js), Spring Boot, Laravel, PostgreSQL, Docker</text>
+  <text x="10" y="150" font-size="14" fill="#ffffff">Tools : Postman, Git</text>
 </svg>
