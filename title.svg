@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="80">
-    <style src="./style.css" >
+    <style>
         .title {
           transition: fill .3s ease;
           <!-- cursor: works in github not in preview mode -->
