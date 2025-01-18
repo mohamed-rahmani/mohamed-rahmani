@@ -10,6 +10,7 @@
           text-anchor: middle;
           dominant-baseline: middle;
           font-size: 24px;
+          padding: 5px;
         }
 
     </style>
